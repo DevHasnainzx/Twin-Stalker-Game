@@ -14,9 +14,13 @@
 *Currently in development for potential commercial release.*  
 
 ## Gameplay Screenshots
-*The main screen of game allwing user to Start game, Load game, Options Menu and Quit Gam *
+### <span style="color:#58a6ff">Main Menu</span>
+*The main screen of game allowing user to Start game, Load game, Options Menu and Quit Game*  
 ![Main Menu](GamePlay/MainMenu.png)  
 
+### <span style="color:#58a6ff">Tutorial Screen</span>
+*After a few seconds, control instructions appear to guide new players through basic movement and combat mechanics*  
+![Tutorial Screen](GamePlay/TutorialScreen.png)  
 
 ---
 
