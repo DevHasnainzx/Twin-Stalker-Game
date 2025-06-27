@@ -42,6 +42,15 @@
 
 ![Healing](GamePlay/Healing.png)
 
+### <span style="color:red">XP Mechanism</span>
+*The orange/brown XP gauge increases when player kills enemy. Enemy death grants certain points*
+
+![XP Gauge Filled](GamePlay/XPGuageFilled.png)
+
+*When gauge is completely filled, player level increases along with total health and damage. XP bar resets with increased filling value*
+
+![XP Bar](GamePlay/XPBarIncreased.png)
+
 ---
 
 🛠️ **Built With**: Unity, C#  
