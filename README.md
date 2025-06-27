@@ -13,7 +13,7 @@
 - **Real-time dual-character control** with shared health mechanics  
 - **Branching narrative** where choices impact world events  
 - **Strategic combat** requiring dynamic switching between melee/ranged fighters
-- 
+
 *Currently in development for potential commercial release.*
 
 ---
