@@ -45,11 +45,11 @@
 ### <span style="color:red">XP Mechanism</span>
 *The orange/brown XP gauge increases when player kills enemy. Enemy death grants certain points*
 
-![XP Gauge Filled](GamePlay/XPGuageFilled.png)
+![XP Gauge Filled](GamePlay/XpGuageFilled.png)
 
 *When gauge is completely filled, player level increases along with total health and damage. XP bar resets with increased filling value*
 
-![XP Bar](GamePlay/XPBarIncreased.png)
+![XP Bar](GamePlay/XPbarIncreased.png)
 
 ---
 
