@@ -31,7 +31,16 @@
 
 *Gauge is filled. Press R to switch player Eriss to Eric, resetting gauge to zero*
 
-![Player 2](GamePlay/Player2Screen.png)  
+![Player 2](GamePlay/Player2Screen.png)
+
+### <span style="color:red">Health Mechanic</span>
+*The red color bar represents player health which is shared between both players and it decreases when attacked by enemy*
+
+![Player Taking Damage](GamePlay/PlayerTakingDamage.png)
+
+*Health regenerates over time showing effect/VFX*
+
+![Healing](GamePlay/Healing.png)
 
 ---
 
