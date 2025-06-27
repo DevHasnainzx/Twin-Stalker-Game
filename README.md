@@ -14,20 +14,26 @@
 - **Branching narrative** where choices impact world events  
 - **Strategic combat** requiring dynamic switching between melee/ranged fighters  
 
-*Currently in development for potential commercial release.*  
+*Currently in development for potential commercial release.* 
+---
+## 👥 Team Members
+- **Muhammad Hasnain Khan** (Group Team Leader)
+- **Muhammad Shehzad** (Developer)
+- **Supervisor**: Mr. Asif Raza (University of Mianwali)
+---
 
-## <span style="color:red">Gameplay Screenshots</span>
-### <span style="color:red">Main Menu</span>
+# Gameplay Screenshots
+## <span style="color:red">Main Menu</span>
 *The main screen of game allowing user to Start game, Load game, Options Menu and Quit Game*
 
 ![Main Menu](GamePlay/MainMenu.png)  
 
-### <span style="color:red">Tutorial Screen</span>
+## <span style="color:red">Tutorial Screen</span>
 *After a few seconds, control instructions appear to guide new players through basic movement and combat mechanics*
 
 ![Tutorial Screen](GamePlay/TutorialScreen.png)  
 
-### <span style="color:red">Switching Mechanic</span>
+## <span style="color:red">Switching Mechanic</span>
 *The green color bar fills over time and when gauge is filled to 100% user can switch to player named Eric from Eriss*
 
 ![Player 1](GamePlay/Player1Screen.png)
@@ -36,7 +42,7 @@
 
 ![Player 2](GamePlay/Player2Screen.png)
 
-### <span style="color:red">Health Mechanic</span>
+## <span style="color:red">Health Mechanic</span>
 *The red color bar represents player health which is shared between both players and it decreases when attacked by enemy*
 
 ![Player Taking Damage](GamePlay/PlayerTakingDamage.png)
@@ -45,7 +51,7 @@
 
 ![Healing](GamePlay/Healing.png)
 
-### <span style="color:red">XP Mechanism</span>
+## <span style="color:red">XP Mechanism</span>
 *The orange/brown XP gauge increases when player kills enemy. Enemy death grants certain points*
 
 ![XP Gauge Filled](GamePlay/XpGuageFilled.png)
@@ -54,7 +60,7 @@
 
 ![XP Bar](GamePlay/XPbarIncreased.png)
 
-### <span style="color:red">Decision Based System</span>
+## <span style="color:red">Decision Based System</span>
 *Player interacts with NPC to trigger dialogue. The dialogue system allows player to select choices through which story would progress differently*
 
 ![Dialogue UI](GamePlay/DialogueUIInteraction.png)
@@ -71,23 +77,30 @@
 
 ![New Map](GamePlay/Map2.png)
 
-### <span style="color:red">Save Menu</span>
+## <span style="color:red">Save Menu</span>
 *Players can save their progress anytime by accessing the save menu during gameplay*
 
 ![Save Screen](GamePlay/SaveScreen.png)
 
-### <span style="color:red">Pause Menu</span>
+## <span style="color:red">Pause Menu</span>
 *Pressing ESC pauses the game, bringing up options to resume, adjust settings, or return to main menu*
 
 ![Pause Menu](GamePlay/PauseMenu.png)
 
-### <span style="color:red">Game Over Screen</span>
+## <span style="color:red">Game Over Screen</span>
 *When player health reaches zero, the game over screen appears showing stats and retry options*
 
 ![Game Over](GamePlay/GameOver.png)
 
 ---
 
+## 🎮 Credits
+- **Unity Assets Store**: [View Assets Used](https://assetstore.unity.com)
+- **Sound Effects**: [freesound.org](https://freesound.org)
+
 ## 📧 Contact  
 - **Email**: muhammad.hasnain.khanzx@gmail.com  
-- **LinkedIn**: [Muhammad Hasnain Khan](https://www.linkedin.com/in/muhammad-hasnain-khan-b91aab370)
+- **LinkedIn**: [Muhammad Hasnain Khan](https://www.linkedin.com/in/muhammad-hasnain-khan-b91aab370)  
+- **GitHub**: [HasnainDev](https://github.com/DevHasnainzx)
+
+🛠️ **Built With**: Unity, C#
