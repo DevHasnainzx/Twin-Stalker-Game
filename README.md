@@ -1,5 +1,5 @@
 # TWIN STALKER  
-*A 3D Action RPG with Dynamic Character Switching and Decision Based System as Innovative Concept for Final year Project*  
+*The project focuses on developing a 3D Role-Playing Game (RPG) where players can control two unique characters and switch between them freely or at key moments in the storyline. The game incorporates a decision-based system that allows players to make meaningful choices, influencing the narrative and creating engaging, dynamic gameplay. This combination of character-switching mechanics and player-driven decisions aims to deliver a captivating and immersive gaming experience.*  
 
 [![Unity Version](https://img.shields.io/badge/Unity-g6000.0.45f+-black.svg?logo=unity)](https://unity.com)  
 [![Project Status](https://img.shields.io/badge/Status-In%20Development-blue.svg)]()
