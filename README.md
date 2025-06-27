@@ -13,7 +13,7 @@
 
 *Currently in development for potential commercial release.*  
 
-## Gameplay Screenshots
+## <span style="color:red">Gameplay Screenshots</span>
 ### <span style="color:red">Main Menu</span>
 *The main screen of game allowing user to Start game, Load game, Options Menu and Quit Game*
 
@@ -25,7 +25,7 @@
 ![Tutorial Screen](GamePlay/TutorialScreen.png)  
 
 ### <span style="color:red">Switching Mechanic</span>
-*The green color bar fills over time and when gauge is filled to 100% user can switch to player named Eriss*
+*The green color bar fills over time and when gauge is filled to 100% user can switch to player named Eric from Eriss*
 
 ![Player 1](GamePlay/Player1Screen.png)
 
@@ -67,6 +67,21 @@
 *When player interacts with portal using required active character, the map changes and story progresses further*
 
 ![New Map](GamePlay/Map2.png)
+
+### <span style="color:red">Save Menu</span>
+*Players can save their progress anytime by accessing the save menu during gameplay*
+
+![Save Screen](GamePlay/SaveScreen.png)
+
+### <span style="color:red">Pause Menu</span>
+*Pressing ESC pauses the game, bringing up options to resume, adjust settings, or return to main menu*
+
+![Pause Menu](GamePlay/PauseMenu.png)
+
+### <span style="color:red">Game Over Screen</span>
+*When player health reaches zero, the game over screen appears showing stats and retry options*
+
+![Game Over](GamePlay/GameOver.png)
 
 ---
 
