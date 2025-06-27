@@ -51,6 +51,23 @@
 
 ![XP Bar](GamePlay/XPbarIncreased.png)
 
+### <span style="color:red">Decision Based System</span>
+*Player interacts with NPC to trigger dialogue. The dialogue system allows player to select choices through which story would progress differently*
+
+![Dialogue UI](GamePlay/DialogueUIInteraction.png)
+
+*If user selected player named Eriss, it would trigger portal to open. If active player is Eric, user cannot interact with portal*
+
+![Eric Cannot Enter](GamePlay/Ericcnt.png)
+
+*If active player is Eriss, player can interact with the portal*
+
+![Eriss Can Enter](GamePlay/ErissCanEnter.png)
+
+*When player interacts with portal using required active character, the map changes and story progresses further*
+
+![New Map](GamePlay/Map2.png)
+
 ---
 
 🛠️ **Built With**: Unity, C#  
