@@ -14,13 +14,24 @@
 *Currently in development for potential commercial release.*  
 
 ## Gameplay Screenshots
-### <span style="color:#58a6ff">Main Menu</span>
-*The main screen of game allowing user to Start game, Load game, Options Menu and Quit Game*  
+### <span style="color:red">Main Menu</span>
+*The main screen of game allowing user to Start game, Load game, Options Menu and Quit Game*
+
 ![Main Menu](GamePlay/MainMenu.png)  
 
-### <span style="color:#58a6ff">Tutorial Screen</span>
-*After a few seconds, control instructions appear to guide new players through basic movement and combat mechanics*  
+### <span style="color:red">Tutorial Screen</span>
+*After a few seconds, control instructions appear to guide new players through basic movement and combat mechanics*
+
 ![Tutorial Screen](GamePlay/TutorialScreen.png)  
+
+### <span style="color:red">Switching Mechanic</span>
+*The green color bar fills over time and when gauge is filled to 100% user can switch to player named Eriss*
+
+![Player 1](GamePlay/Player1Screen.png)
+
+*Gauge is filled. Press R to switch player Eriss to Eric, resetting gauge to zero*
+
+![Player 2](GamePlay/Player2Screen.png)  
 
 ---
 
