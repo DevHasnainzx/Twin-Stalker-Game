@@ -36,7 +36,7 @@
 ### <span style="color:red">Health Mechanic</span>
 *The red color bar represents player health which is shared between both players and it decreases when attacked by enemy*
 
-![Player Taking Damage](GamePlay/PlayerTakingDamage.png)
+![Player Taking Damage](GamePlay/PlayerTaking Damage.png)
 
 *Health regenerates over time showing effect/VFX*
 
